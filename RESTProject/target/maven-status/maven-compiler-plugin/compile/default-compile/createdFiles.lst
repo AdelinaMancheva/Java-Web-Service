@@ -1,0 +1,12 @@
+src\FtoCService.class
+gui\Layout$1.class
+gui\TextFields.class
+gui\OutputParser.class
+gui\Layout$FahrListener.class
+gui\Layout$CelsListener.class
+gui\Layout.class
+src\Main.class
+src\RESTClient.class
+gui\Labels.class
+gui\Buttons.class
+src\CtoFService.class
